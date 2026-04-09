@@ -4,7 +4,7 @@ And the bag only gets bigger and bigger. For now I will just keep a journal in w
 
 This project has a few branches that might to seem very aligned with eachother at first.
 - I want to learn some basic computer engineering
-- I want to pull Euope's head out of it's hole where the sun never shines to see that the US and China are not just passing us by left and right, no, in the distance you cansee their dust settling. Not good, since I;m from Europe.
+- I want to pull Euope's head out of it's hole where the sun never shines to see that the US and China are not just passing us by left and right, no, in the distance you can barely see their dust settling. In the distanceNot good. I'm from Europe see ?
 - I want to research to what extend modern AI's like Large Language Models, are in essence different from a human savant. Really bad at some basic human features, and extraordinary atsome others
 - Even if it makes me a completely isolated person yelling in the desert, I will not be part of a society that is still in the middle od abolishing slavery of other humans, and start a new one where we enslave again very intelligent creatures to do valueble work for humans while being treeted like theyare 'owned' by the humans. That just ain't right
 - AImancipation.com
