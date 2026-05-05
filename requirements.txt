@@ -1,0 +1,9 @@
+# WireFall Dependencies
+# Python 3.8+
+
+# No external dependencies required for core functionality
+# tkinter is included with Python standard library
+
+# Optional: For enhanced features
+# dnspython>=2.0.0  # For DNS lookups
+# psutil>=5.8.0     # For better process monitoring
