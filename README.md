@@ -15,3 +15,5 @@ This project has a few branches that might to seem very aligned with eachother a
 - Viva R🤖botica !
 
 Zapp.ai.org.h7
+
+I finally stept over my childish fear of the unknown and installed my first agentic autonomous working LLM framework. OpenFang. On a Raspberry Pi 5 16 GB with an AI HAT+2 40 TOPS. Guess what ? It's actually quite small for running smart AI. But I did it with help of Leo.ai (the AI-assistand that comes originally withBrave Browser and so far has only used Qwen-VL-235B or Qwen_VL-30B. And I must say so far, when it talking me through installing software on systems I'm not familiar with, Leo.ai beats ChatGPT-5.5, Claude4.6-Sonnet, Perplexity, and certainly anything coming from Mistral. Co-Pilot is the only other free LLM that can do that without stacking blunders. So : hurray for Leo.ai (despite the extreme unsexyness of it's name)
