@@ -1,6 +1,6 @@
 # Big-Bag-O-AI
 
-For now I will just keep a journal in which I highlight moments in my journey to becoming "the AI-whisperer.
+For now I will just keep a journal in which I highlight moments in my journey to becoming "the AI-whisperer".
 
 This project has a few branches that might not seem very aligned with each other at first.
 - I want to learn some basic computer engineering
